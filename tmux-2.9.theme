@@ -9,7 +9,7 @@ accent_color="colour71"
 bg_color="colour236"
 bell_color="colour9"
 activity_color="yellow"
-light_text="white"
+light_text="colour252"
 dark_text="black"
 
 # Widgets
