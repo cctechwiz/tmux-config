@@ -1,3 +1,7 @@
+Merged into https://github.com/cctechwiz/dotconfig
+
+---
+
 # Tmux Configuration
 
 ### Installation
